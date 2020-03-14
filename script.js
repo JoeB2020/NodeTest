@@ -1,5 +1,3 @@
-var _ = require('lodash');
-
 class PhysicsEngine{
 	constructor(){
 		this.navclosedPos = -30;
